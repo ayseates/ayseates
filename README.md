@@ -31,12 +31,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 
-
-
 <br />
-<br />
-
-
 
 <details>
 <summary> :star: Github Stats</summary>
