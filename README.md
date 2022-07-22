@@ -1,3 +1,5 @@
+<img src="https://c.tenor.com/b3L_KIiGcHEAAAAC/code-deep-turkish.gif" align="right" width="400" height="250">
+
 <h1 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=829FF7&lines=Hello!;I'm+Ay%C5%9Fe+Ate%C5%9F">
@@ -6,7 +8,7 @@
 
 ## Junior Front-End Developer
 
-<font color="#829FF7">turkish coffee :coffee: is how i keep up with `<code/>` </font>
+<font color="#829FF7">turkish coffee ☕ is how i keep up with `<code/>` </font>
 
 ### Reach out to me
 
@@ -23,23 +25,20 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<br />
-### Just out of curiosity
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-
-
+<br />
 <br />
 
 <details>
-<summary> :star: Github Stats</summary>
+<summary> ⭐ Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ayseates&theme=react" >
 </details>
 
 <details>
-<summary> :star:  Most Used Languages</summary>
+<summary> ⭐  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayseates&theme=react" >
 </details>
 
@@ -52,4 +51,3 @@
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/ayseatess0R"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-```
