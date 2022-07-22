@@ -50,4 +50,4 @@
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/ayseatess0R"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/ayseatess0R"><img src="https://i.hizliresim.com/jing4y1.png" width="200" /></a>
